@@ -1,0 +1,3 @@
+rootProject.name = "keylines"
+include ':app'
+include ':library'
